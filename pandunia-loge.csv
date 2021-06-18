@@ -94,7 +94,7 @@ alkal.oranj:e|alkaloranje|biu|Citrus × aurantium||bitter orange|orange amère|n
 alkol:|alkol|||fra:alcool por:álcool spa:alcohol eng:alcohol hin: ara:(kuhul), rus:алкоголь (alkohol), pol:alkohol|alcohol|alcool|alcohol|álcool|алкоголь||酒||||मद्यसार||alkohol (arak)||alkol|alkoholo|alkoholi|alkohol
 alkol:i|alkoli||||alcoholic|alcoolique|alcohólico|||||||||||||alkohola|alkoholinen|alkoholowy
 almar:|almar|||spa:armario, por:armário, hin:अलमारी (almārī), ben:আলমারি (almari), may:lemari, swa:almari|cupboard (closet, cabinet, wardrobe)|placard|armario|armário|шкаф||碗碟橱||||अलमारी|আলমারি|lemari (almari)||dolap|ŝranko|kaappi|kredens (szafa, szafka)
-almas:|almas|||swa:almasi, rus:алмаз (almaz), ara:(ʾalmāsa), fas:(almâs), tur:elmas|diamond|diamant|diamante|diamante|алмаз (бриллиант)||钻石||||हीरा||intan (permata)||elmas|diamanto|timantti|diament
+almas:|almas|bauxeke||swa:almasi, rus:алмаз (almaz), ara:(ʾalmāsa), fas:(almâs), tur:elmas|diamond|diamant|diamante|diamante|алмаз (бриллиант)||钻石||||हीरा||intan (permata)||elmas|diamanto|timantti|diament
 alumin.em:|aluminem|mate|Al||aluminium|aluminium|aluminio|||||||||||||aluminio|alumiini|glin (aluminium)
 alumin.mat:e|aluminmate||||alum|alun|alumbre|||||||||||||||
 alumin.oks.id:e|aluminokside||||alumina (aluminum oxide)|alumine (oxyde d'aluminium)|alúmina|||||||||||||||
@@ -190,6 +190,7 @@ aran.net:e|arannete||||spiderweb (cobweb)|toile d'araignée|||||||||||||||hämä
 arbuz:e|arbuze|biu|Citrullus lanatus|rus:арбуз (arbuz), pol:arbuz, tur:karpuz, ell:καρπούζι (karpuzi), hin:तरबूज़ (tarbūz), ben:তরমুজ (tôrmuj)|watermelon|pastèque|sandía (patilla)|melancia|арбуз||西瓜||||तरबूज||semangka||karpuz|akvomelono|vesimeloni|arbuz
 Arcah:|Arcah|dex|||Artsakh|Artsakh|Artsaj|||||||||||||||Abchazja
 argent:e|argente|mate|Ag|por:ita:argento, fra:argent, may:argentum|silver|argent|plata|prata|||银|銀|||||perak (argentum)|||arĝento|hopea|srebro
+argent:i|argenti|rang|||silvery|||||||銀色||||||||||
 Argentina:|Argentina|dex|AR||Argentina|Argentine|Argentina|||||||||||||Argentino|Argentiina|Argentyna
 argon:|argon|mate|Ar||argon|argon|argón|||||||||||||argono|argon|argon
 argum:|argum|||eng:fra:argument, spa:por:argumento, rus:аргумент (argument)|argument (rationale, grounds)|argument|argumento|argumento|аргумент (обосновани)|||||lí lẽ|||||||perustelu (argumentti)|argument
@@ -245,6 +246,7 @@ auar.an:i|avarani||||harmful (damaging)||dañino (perjudicial)|||||||||||||dama�
 aud:a|auda|||eng:spa:fra:audio, por:áudio|hear (listen)||oír (escuchar)|||||||||||||aŭdi (aŭskulti)|kuulla (kuunnella)|usłyszeć, słyszeć; słuchać
 auen:|aven|||fra:avoine, spa:avena, por:aveia, rus:овёс (ovyos), may:haver|oat|avoine|avena|aveia|овёс||燕麦|烏麦|귀리|yến mạch|जई|জই|haver||yulaf|aveno|kaura|
 aur:|aur|mate|Au|ltn:aurum, por:ouro, spa:oro, fra:or, rus:аурум (aurum), may:aurum|gold|or|oro|ouro|золото (аурум)||金|金|금|vàng|सोना|সোনা|emas (mas, aurum)|dhahabu|altın|oro|kulta|złoto
+aur:i|auri|rang|||golden||||золотистый|||金色|||||keemasan|||||
 Austr.al:ia|Australia|dex|AU||Australia|Australie|Australia|||||||||||||Aŭstralio|Australia|Australia
 Austr.o.nes:ia|Austronesia||||Austronesia|Austronésie|Austronesia|Austronésia|Австронезия||南岛|オーストロネシア|오스트로네시아|||||||Aŭstronezio|Austronesia|
 aut:a|auta||||personalize (customize)||personalizar|||||カスタマイズする||||||||||
@@ -314,7 +316,6 @@ bari:a|barya||||bar (obstruct, block)|bloquer|barrar (bloquear, obstruir)|barrar
 bari.er:|baryer|||eng:barrier, fra:barrière, por:barreira, spa:barrera, rus:барьер (baryer), hin:बाड़ (bāṛ), ben:বেড়া (beṛa)|barrier (fence)|barrière|barrera (barda)|barreira|барьер||||||बाड़ (रोक)|বেড়া||||barilo|este|bariera
 bark:a|barka|||hau:barka, may:berkah, tur:tebrik, fas:(tabrik), ara:urd:(mubārak), swa:baraka, yor:alubarika|congratulate (bless)|féliciter|felicitar|||||||||||||gratuli|onnitella (siunata)|gratulować; błogosławić
 bark:e!|barke!||||congratulations! (blessing, benediction)|Félicitations !|¡Felicitaciones!|||||||||||baraka|||onneksi olkoon!|gratulacje!
-barkok:e|barkoke|pal||ara:(barqūq), pa:albaricoque, fra:abricot, rus:абрикос (abrikos), tgl:albarikoke, swa:aprikoti|apricot|abricot|albaricoque|damasco (abricó)|абрикос||杏子||||ख़ूबानी|খুবানি||aprikoti|kayısı (zerdali)|abrikoto|aprikoosi|morela
 bart:i|barti|||hin:भारतीय (bhārtīy), urd:(bhārtīy), mar:(bhārtīya), tel:(bhāratīya)|Indian|indien|indio (hindú)|||||||||||||Barata|intialainen|Indyjski
 Bart:i Hai:|Barti Hai||||Indian Ocean|océan Indien|océano Índico||||||||||||||Intian valtameri|Ocean Indyjski
 Bart:ia|Bartia|dex|IN||India|Inde|India|||||||||||||Baratio|Intia|Indie
@@ -330,6 +331,7 @@ basen:|basen|||eng:basin, fra:bassin, rus:бассейн (basseyn), por:bacia|po
 bask:e|baske|||eng:basket, may:bakul, jpn:バスケット (basuketto)|basket (basketball hoop)|panier (panier de basketball)|cesta (canasta, barquilla, aro)|||||||||||||korbo|kori|kosz
 bask.o.bol:|baskobol||||basket ball|basketball|baloncesto (básquetbol)|basketball|баскетбол||篮球||||बास्केट बॉल||bola basket||basketbol||koripallo|piłka do koszykówki (koszykówka)
 bat:e|bate|biu|Anatidae|ara: بَطَّة‎ (baṭṭa), hin:बत्तख (battakh), tel:బాతు (bātu), swa:bata + spa:por:pato + tha:เป็ด  (pèt)|duck||pato|pato||بَطَّة‎|鸭|鴨|오리|vịt|बत्तख|||bata||anaso|sorsa (ankka)|kaczka
+bat.o.nil:i|batonili|rang|||teal|||||||||||||||||
 bat:i|bati|numbe|8|zho:八 (bā), yue:八 (baat3), wuu:八 (baʔ), jpn:八 (hachi), kor:팔 (pal), tha:แปด (pæt) + hin:आठ (āṭh), ben:আট (aṭ)|eight (8)|huit (8)|ocho (8)|oito (8)|восемь (8)||八 (8)|八 (8)||||||||ok (8)|kahdeksan (8)|osiem (8)
 bat.o.krot:e|batokrote|biu|Ornithorhynchus anatinus||platypus||ornitorrinco||||||||||||||vesinokkaeläin|dziobak
 bat.o.lun:|batolun|mes|||August|août|agosto|||||８月|||||||||elokuu|listopad
@@ -455,10 +457,13 @@ brauz.er:|brauzer|||eng:browser, deu:Browsre, rus:браузер (brauzer), hin:
 Brazauil:|Brazavil|xefsite|CG||Brazzaville||Brazzaville||||||||||||||Brazzaville|
 Brazauil: Kongo:|Brazavil Kongo|dex|CG||Congo (Brazzaville)||República del Congo||||||||||||||Brazzavillen Kongo|Republika Konga
 Brazil:|Brazil|dex|BR||Brazil||Brasil|||||||||||||Brazilo|Brasilia|Brazyla
+brikok:e|brikoke|biu|Prunus|ara:(barqūq), pa:albaricoque, fra:abricot, rus:абрикос (abrikos), tgl:albarikoke, swa:aprikoti|prune (apricot, plum, peach)|abricot|albaricoque (ciruela, duranzo)|damasco (abricó)|абрикос||モモ (ウメ, アンズ)||||ख़ूबानी|খুবানি||aprikoti|kayısı (zerdali)|abrikoto|aprikoosi|morela
+brikok.o.jal:i|brikokojali|rang|||apricot colored|||||||||||||||||
+brikok.o.nil:i|brikokonili|rang|||plum colored|||||||||||||||||
+brikok.o.ruj:i|brikokoruji|rang|||peach colored|||||||桃色||||||||||
 Britan:ia|Britania|dex|GB||United Kingdom||Reino Unido||||||||||||||Iso-Britannia (Yhdistyneet Kuningaskunnat)|Zjednoczone Królestwo
 brom.em:|bromem|mate|Br||bromine||bromo|||||||||||||bromo|bromi|brom
 brox:|brox|||eng:brush, fra:brosse, ben:ব্রাশ (braś), hin:ब्रश (braś), urd:(braś), hau:swa:burashi, jpn:ブラシ (burashi), kor:브러시 (beureosi), fas:(boros), may:berus|brush||cepillo (brocha)|||||||||||||broso|harja|szczotka
-brun:i|bruni|rang||fra:brun, ara:(bunniy), hin:भूरा (bhūrā), eng:brown|brown|brun (marron)|marrón|castanho (marrom)|коричневый|بُنِّيّ|棕色 (色)|茶色|갈색|nâu|भूरा||cokelat|kahawia|kahverengi|bruna|ruskea|brązowy, koloru kawy
 brun.alg:e|brunalge|biu|Phaeophyceae||brown algae|algues brunes|algas pardas||бурые водоросли|||褐藻||||||||||brunatnica
 brun.salmon:|brunsalmon|biu|Salmo trutta||brown trout|truite brune (truite de mer)|trucha marrón|truta-marrom|кумжа||褐鳟|ブラウントラウト|||||trout coklat|||||pstrąg potokowy
 Brunei:|Brunei|dex|BN||Brunei Darussalam||Brunei||||||||||||||Brunei|Brunei Darussalam
@@ -1014,6 +1019,7 @@ fin.it:i|finiti||||finished|||||||||||||||finita|lopetettu|
 fin.od:i|finodi||||last (final)||final (último)|||||||||||||lasta|viimeinen|ostatni, końcowy
 fiord:e|fiorde|||nor:eng:fjord, fra:may:fiord, por:fiorde, spa:fiordo, rus:фьорд (f’ord), jpn:フィヨルド (fiyorudo)|fjord|fiord|fiordo|fiorde|фьорд||峡湾|フィヨルド||||||||fjordo|vuono|fiord
 firuz:e|firuze|||per:(firuze), tur:firuze, ara:(fayrūz), swa:feruzi, hin:फीरोज़ा (phīrozā), ben:ফিরোজা (phiroja), may:pirus, rus:бирюза (biryuza)|turquoise gem||turquesa (piedra preciosa)||бирюза||绿松石|||||||||turkiso|turkoosi|turkus
+firuz:i|firuzi|rang|||turquoise colored||||бирюзовый|||ターコイズ色|||||||turkuaz|||
 fit:e|fite|||eng:phyto-, -phyte, deu:fra:phyto-, spa:por:fito-, rus:фито- (fito-)|plant (vegetable, vegetation)|plante (végétal)|planta (vegetal, vegetación)|planta (vegetal)|растение|نَبَات‎|植物|植物|식물|thực vật|पौधा|গাছ|tumbuh-tumbuhan|mmea|bitki (nebat)|planto|kasvi|roślina, sadzonka
 fit.iam.ist:e|fityamiste||||vegetarian|végétarien|vegetariano|vegetariano|вегетарианец|نَبَاتِيّ|素食主义者|菜食主義者 (ベジタリアン)|채식주의자|người ăn chay|शाकाहारी||||vejetaryen||kasvissyöjä|wegetarianin
 fit.o.loj:ia|fitolojia||||botany (phytology)|botanique|botánica|botânica|ботаника||植物学||||वनस्पति विज्ञान||ilmu tumbuh-tumbuhan||bitki bilimi|plantscienco (botaniko)|kasvitiede|botanika
@@ -1188,6 +1194,7 @@ geu.dou:|geudou|biu|||peanut (groundnut)||maní||||||||||||||maapähkinä|orzech
 geu.form:e|geuforme||||terrain|terrain|terreno|terreno|||地势|地形||||||||||teren
 geu.graf:ia|geugrafia||||geography|geographie|geografía|geografia|география||地理|||||||jiografia||geografio|maantiede|
 geu.gun:ia|geugunia||||ground force (army)||ejército||||||||||||||maavoimat|wosko lądowe (armia)
+geu.jal:i|geujali|rang|||ocher|||||||黄土色||||||||||
 geu.kask:i krak:e|geukaski krake||||fault line|||||||||||||||||uskok
 geu.kask:i plat:e|geukaski plate||||tectonic plate|plaque tectonique|placa tectónica|||||||||||||||płyta tektoniczna
 geu.loj:ia|geulojia||||geology|géologie|geología|||||地質学||||||||||geologia
@@ -1291,7 +1298,8 @@ hai.ful:|haiful|biu|Actiniaria||sea anemone||actinia (anémonas de mar)||мор�
 hai.gun:|haigun||||sea force (navy)|force navale (marine)|marina (armada)|marinha|военно-морской флот||海军|海軍|해군|hải quân|नौसेना||angkatan laut|||mararmeo|merivoimat (sotalaivasto)|marynarka (flota)
 hai.hiiar:|haihiyar|biu|Holothuroidea||sea cucumber|concombre de mer|holoturia (pepino de mar)|pepino-do-mar (holotúrias)|голотурия (морские огурц)||海參|海鼠|||||gamat|||||strzykwa
 hai.jel:|haijel|biu|Medusozoa||jellyfish (seajelly)|méduse|medusa|medusa|||海蜇|海月||||||||||meduza
-hai.nil:i|hainili||||aqua (teal)|||||||水色||||||||||morskoniebieski
+hai.nil:i|hainili|rang|||navy blue||azul marino|||||紺色||||||||||
+hai.luk:i|hailuki|rang|||sea green (aquamarine)|||||||シーグリーン色||||||||||morskoniebieski
 hai.port:e|haiporte||||harbor (seaport)||puerto marítimo|porto marítimo|||海港|海港||||||||haveno|satama|port morski (przystań)
 hai.tat:e|haitate||||coast (beach)|côte|costa|costa|||海岸|海岸||||||||||wybrzeże (plaża)
 Haiak:ia|Hayakia|dex|AM||Armenia||Armenia||||||||||||||Armenia|Armenia
@@ -1411,7 +1419,7 @@ Horuat:ia|Horvatia|dex|HR||Croatia||Croacia|||||||||||||Kroatio|Kroatia|Chorwacj
 hotel:|hotel|||eng:deu:spa:por:may:hotel, fra:hôtel, hin:होटल (hoṭal), ben:হোটেল (hoṭel), jpn:ホテル (hoteru), kor:호텔 (hotel), rus:отель (otel)|hotel|hôtel|hotel (albergue)|hotel|гостиница (отель)||旅馆|ホテル (旅館)|호텔 (여관)|khách sạn (lữ quán)|होटल|হোটেল|hotel|hoteli|otel|hotelo|hotelli|hotel
 hui:|hui|||zho:灰 (huĭ), yue:灰 (fui), jpn:灰 (hai), + kor:회색 (hoesaeg)|ash (ashes)||ceniza||||||||||||||tuhka|popiół
 hui.dart:e|huidarte||||podzol|podzol|podsol|espodossolo|подзол||灰化土|ポドゾル|||||||||podsoli|gleba bielicoziemna
-hui.rang:i|huirangi|rang|||grey (gray, ashy)||gris||||||||||||||harmaa|szary
+hui:i|huyi|rang|||grey (gray, ashen)||gris||||||||||||||harmaa|szary
 huk:e|huke|||eng:hook, deu:Haken, rus: гак (gak), pol:hak, hin:हुक (huk), ben:হুক (huk), may:hak|hook|crochet|gancho (anzuelo, alcayata)|gancho|крюк (гак)||钩|掛 (針, 鉤)|갈고리|móc|अंकुश (आंकड़ा)|অঙ্কুশ (হুক)|hak (gancu)||kanca|hoko|koukku (haka)|hak
 huk.o.krus:|hukokrus||||swastika (hooked cross)|svastika (croix gammée)|esvástica (cruz gamada)|suástica (cruz gamada)|свастика||卍 (卐)|卍 (卐)|만자문|chữ Vạn|स्वस्तिक|স্বস্তিক|||gamalı haç|svastiko|hakaristi (svastika)|swastyka
 hulei:|hulei|biu|Vulpes vulpes|zho:狐狸 (húlí), yue:狐狸 (wu4 lei4-2), wuu:狐狸 (hhu li3), kor:호리 (hori), vie:hồ li|fox|renard|zorro|raposa|лиса|ثَعْلَب|狐狸|狐|여우|cáo|लोमड़ी|শিয়াল|rubah|thalabu|tilki|vulpo|kettu|lis
@@ -1437,6 +1445,8 @@ iag:o|yago|||kor:약 (yag), jpn:約 (yaku), yue:約 (yœk), tur:yaklaşık, zho:
 iag.o.nes:|yagones||||peninsula||península|||||||||||||||półwysep
 iahu:e|Yahve||||Yahweh (Jehovah)|Yahweh (Jéhovah)|Yahvé (Jehová)|Javé (Jeová)|Яхве (Иегова)|يَهْوَه|耶和华 (雅威)|ヤハウェ (エホバ)|야훼 (여호와)|||||Yehova||Javeo (Jehovo)|Jahve (Jehova)|
 iak:e|yake|||eng:deu:fra:spa:tur:yak, por:iaque, hin:याक (yāk)|yak||yac||||||||||||||jakki|jak (zwierzę)
+iakut:e|yakute|bauxeke||ara:يَاقُوت‎ (yāqūt), fas:یاقوت‎ (yâqut), tur:yakut, swa:yakuti, hin:याक़ूत (yāqūt)|ruby|rubis|rubí|rubi|рубин|ياقوت|红宝石|ルビー|루비|hồng ngọc|मानिक (याक़ूत)||delima|yakuti|yakut|rubeno|rubiini|rubin
+iakut:i|yakuti|rang|||ruby red (crimson)||rojo rubí|||||||||||||||
 ial:a|yala||||hurry (hasten)||meter prisa|||||||||||||rapidigi|kiirehtiä|popędzić, popędzać, pośpieszyć, pośpieszać, ponaglić, ponaglać
 iam:|yam||||food (meal)||comida|||||食べ物 (食事)|||||||||ruoka|jedzenie, posiłek
 iam:a|yama|||khm:ញ៉ាំ (nyam), ful:nyami, + spa:ñam, rus:ням (nyam), ita:gnam, eng:yum, kor:냠냠 (nyamnyam), hun:nyam|consume (eat or drink)||comer (bebir)|||||食べる||||||||manĝi (trinki)|nauttia (syödä, juoda)|skonsumować, konsumować, zjeść, jeść, wypić, pić)
@@ -1693,6 +1703,7 @@ Kaiman: nes:ia|Kaiman nesia|dex|KY||Cayman Islands||islas Caimán||||||||||||||C
 kak:a|kaka||||defecate (shit)||defecar||||||||||||||ulostaa (kakata)|defekować, srać
 kak:e|kake|||spa:por:fra:caca, deu:Kacke, ara:(kākā), tur:kaka, rus:кака (kaka), fas:(kake)|excrement (shit)||caca|||||||||||||feko|uloste (kakka)|ekskrement, gówno
 kakau:|kakau|biu||por:cacau, ara:(kākāw), spa:cacao, eng:cocoa, rus:какао (kakao), jpn:カカオ (kakao), zho:可可 (kěkě), vie:cacao, swa:kakao|cocoa||cacao|||||||||||kakao||kakao|kaakao|kakao
+kakau:i|kakavi|rang|||brown (cocoa)|brun (marron)|marrón|castanho (marrom)|коричневый|بُنِّيّ|棕色 (色)|茶色|갈색|nâu|भूरा||cokelat|kahawia|kahverengi|bruna|ruskea|brązowy, koloru kawy
 kal:|kal||||void (empty space)||espacio (separación)||||||||||||||tyhjö|pustka
 kal:i|kali|||ben:খালি (khali), hin:ख़ाली (xālī), tel:ఖాళీ (khāḷī), tam:(kali), urd:(xālī), fas:خالی (xāli), ara:خَالٍ‎ (xāliy), jpn:空 (kara)|empty (void)||vacío (desocupado)||пустой|||空|||ख़ाली|খালি||||malplena|tyhjä|pusty
 kal:i harf:e|kali harfe||||space (character)|espace|espacio (texto)|espaço|||空隙|間隔||||||||||spacja
@@ -1878,6 +1889,7 @@ klor.em:|klorem|mate|Cl||chlorine||cloro|||||||||||||kloro|kloori|chlor
 klub:e|klube|||eng:spa:fra:club, por:clube, rus:клуб, tur:kulüp, swa:klabu, hin:क्लब (klab), may:kelab, zho:俱乐部 (jùlèbù), jpn:クラブ (kurabu)|club||club|||||||||||||klubo|kerho (klubi)|klub
 klus:a|klusa|||eng:fra:spa:por:-clus-, rus:ключить (-klyučítʹ)|close (shut)||||||||||||||||sulkea|
 kobalt:e|kobalte|mate|Co||cobalt||cobalto|||||||||||||kobalto|kobaltti|kobalt
+kobalt.o.nil:i|kobaltonili|rang|||cobalt blue|||||||コバルトブルー||||||||||
 kod:a|koda||||encode (encrypt)||codificar (cifrar)||||||||||||||koodata|kodować
 kod:e|kode|||eng:code, spa:por:código, ru:код, fas:کد‎ (kod), hin:कोड (koḍ), jpn:コード (kōdo)|code (cipher)||código (cifra)|||||||||||||kodo|koodi|kod, szyfr
 koi: (koi:i)|koi (koyi)|||hin:कोई (koī), urd:(koī), rus:кое- (koye-)|some||algún|||||何分の||||||||iu|jokin (joku)|jakiś
@@ -1967,6 +1979,7 @@ krem:i|kremi|rang|||creamy (cream colored)||cremoso||||||||||||||kermankeltainen
 krep:e|krepe|yam||fra:eng:crêpe, por:crepe, spa:crepa, tur:krep, ita:crespella|pancake|crêpe|panqueque (crepa)|crepe (panqueca)|блин||薄烤饼|パンケーキ|팬케이크||||||krep|krepo (patkuko)|lätty (räiskäle, pannukakku)|naleśnik
 krep.o.kan:|krepokan||||pancake house (crêperie)|crêperie||||||||||||||krepejo|kreppikoju|naleśnikarnia
 kreuet:e|krevete|||eng:fra:crevette, ita:gamberetto, rus:креветка (krevetka)|shrimp (prawn)|crevette|camarón|camarão|креветка||虾 (xiā)|海老||||||||||krewetka
+krevet:i|kreveti|rang|||maroon (shrimpy)|||||||海老茶色||||||||||
 krim:|krim|||eng:fra:por:crime, spa:crimen, tgl:krimen|crime||crimen (delito)|||||||||||||krimo|rikos|przestępstwo
 krim:i|krimi||||criminal||criminal|||||||||||||krima|rikos- (rikollinen)|kryminalny, przestępczy
 krist:e|kriste||||Christ (messiah)||Cristo (mesías)|||||||||||||kristo|kristus (messias)|Chrystus, mesjasz
@@ -2011,6 +2024,7 @@ kup:e|kupe|||eng:cup, fra:coupe, spa:copa, por:copo, ara: كُوب‎ (kūb), tu
 kup.o.cat:e|kupocate||||dome||cúpula||||||||||||||kupoli (holvikatto)|kopuła
 kupon:|kupon|||eng:fra:coupon, spa:cupón, por:cupom, rus:купо́н (kupón), may:kupon, jpn:クーポン (kūpon), kor:쿠폰 (kupon), swa:kuponi|coupon||cupón (vale)|||||||||||kuponi|||kuponki|kupon
 kupr:e|kupre|mate|Cu||copper||cobre|||||||||||||kupro|kupari|miedź
+kupr:i|kupri|rang|||coppery|||||||銅色||||||||||
 kur.em:|kurem|mate|Cm||curium||curio|||||||||||||kuriumo|curium|kiur
 kuran:|kuran||||Quran (Koran)||Corán||||||||||||||koraani|Koran
 kurs:e|kurse|||ara:(kursiy), hin:कुरसी (kursī), urd:(kursī), pnb:ਕੁਰਸੀ (kursī), tel:(kurcī), may:som:kursi, fas:(korsi)|chair||silla|||||||||||||seĝo|tuoli|kszesło, fotel
@@ -2033,11 +2047,6 @@ lai:a|laya|||zho:来 (lái), yue:嚟 (lai4), jpn:来 (rai), vie:lại|come (arri
 lai.an:a|layana||||bring|apporter|traer|trazer|приносить||带来|持って来る|가져오다|mang|लाना|আনা|bawa|kuleta|getirmek|alporti (venigi)|tuoda|
 laj:e|laje|||zho:垃圾 (lājī)|garbage (rubbish, trash)|ordures|basura (desechos)|refugo (escória)|мусор (дрянь)||废物 (垃圾)|ゴミ (廃棄物)|||kadha, kachara||sampah|takataka|çöp|rubo|roska|śmieć, odpadek
 lak:e|lake|||eng:lacquer, spa:por:laca, fra:laque, rus:лак (lak), jpn:ラッカー|lacquer (varnish)||laca||||||||||||||lakka|lakier
-lal:i|lali|rang||hin:लाल (lāl), ben:লাল (lal), tur:al|red|rouge|rojo|vermelho|красный|أَحْمَر|红|赤い|빨갛다|đỏ|लाल|লাল|merah|nyekundu|kırmızı (al)|ruĝa|punainen|czerwony
-lal.bau.xek:e|lalbauxeke||||ruby|rubis|rubí|rubi|рубин|ياقوت|红宝石|ルビー|루비|hồng ngọc|मानिक (याक़ूत)||delima|yakuti|yakut|rubeno|rubiini|rubin
-lal.o.linc:e|lalolince|biu|Lynx rufus||bobcat||lince rojo (gato montés)||рыжая рысь||短尾貓|ボブキャット||||||||||ryś rudy
-lal.oranj:e|laloranje|biu|Citrus reticulata||mandarin orange (tangerine)|mandarine|mandarina (tangerina)|tangerina (mandarim)|мандарин||柑橘 (红橘)|ポンカン (マンダリン)|||नारंगी (nārangī)||limau mandarin (oren mandarin, tangerin)|chenza||mandarino|mandariini|mandarynka
-lal.salmon:|lalsalmon|biu|Oncorhynchus nerka||sockeye salmon|saumon sockeye|salmón rojo|salmão-vermelho|нерка (красница)||紅鮭|ベニザケ||||||||||nerka (łosoś czerwony)
 lama:|lama*||||lama|lama (enseignant religieux du bouddhisme tibétain)|lama|lama|лама (религиозный учитель в тибетском буддизме)||喇嘛|ラマ (チベット仏教の上師)||||||||||lama
 lamp:e|lampe|||eng:lamp, deu:fra:lampe, spa:lámpara, por:lâmpada, rus:лампа (lampa), ara: لمبة‎(lamba), jpn:ランプ (ranpu), kor:램프 (raempeu), hin:लैंप (laimp), ben:ল্যাম্প (lyamp), may:lampu, tur:lamba|lamp|lampe|lámpara|lâmpada (luminária)|лампа|لمبة‎|灯|ランプ|램프|đèn|चिराग़ (लैंप)|ল্যাম্প|lampu|taa|lamba|lampo|lamppu|lampa
 lan:|lan|||ara:لعنة (laʿna), swa:laana, hau:la'ana, tur:lanet, fas:la'net, urd:lānat, may:laknat|curse (damn!)|malédiccion|maldición|maldição|проклятие||诅咒|呪い (たたり)||||||||||przekleństwo (cholera!)
@@ -2071,12 +2080,14 @@ lax:|lax||||leftover (residue, vestige)||vestigio (sobrante, residuo)|||||||||||
 lax:a|laxa|||fra:laisser,lâcher, ita:lasciare, deu:lassen|leave behind (abandon, let go)|laisser|dejar|deixar|||落 (留下)|残す|||||||||jättää (hylätä)|pozostawiać (pozostawić)
 lax:u|laxu||||stay behind (linger)|||||||||||||||||pozostawać w tyle (zwlekać)
 lazani:e|lazanye|||fra:lasagne, eng:lasagna, spa:lasaña, por:lasanha, rus:лазанья (lazanya), ara:(lazanyā), jpn:ラザニア (razania), kor:라자냐 (lajanya), hin:लज़ैन्या (lazenyā)|lasagna|lasagne|lasaña|lasanha|лазанья|لَازَانْيَا|千层面|ラザニア|라자냐||लज़ैन्या||||lazanya||lasagne|lazania
-lazur:i|lazuri||||azure|azur|azur (blao)|azur (blau)|лазурь|||||||||||||
+lazur:i|lazuri|rang|||azure|azur|azur (blao)|azur (blau)|лазурь|||||||||||||
 lazur.petr:e|lazurpetre|||fas:لاجورد (lājevard), eng:lazuli, spa:lapislázuli, rus:лазурит (lazurit), ara:لازورد (lāzaward), hin:लाजवर्द (lājavarda), jpn:ラピスラズリ (rapisurazuri), may:lazuardi, tur:lazur taşı|lapis lazuli|lapis-lazuli|lapislázuli|lápis-lazúli|лазурит|لَازَوَرْد|青金岩|ラピスラズリ (瑠璃)|||लाजवर्द (वैडूर्य)||||lazur taşı||lapislatsuli|lapis lazuli
 left:e|lefte|||eng:left, rus:левый (levyy)|left||lado izquerdo|esquerdo|левый||左|左|||बायीं||kiri|kushoto|sol||vasen|lewa strona
 left:i|lefti||||left hand||izquierdo|||||||||||||||lewy (lewostronny, z lewej strony)
 left.ist:e|leftiste||||leftist (left-winger)||izquerdista||||||||||||||vasemmistolainen|lewicowiec (lewak)
 leg:i|legi|||eng:light, spa:ligero, fra:léger, rus:лёгкий (l’ogkiy), pol:lekki, ben:লঘু (laghu)|light (weightless)|léger|ligero|||||||||||||||lekki
+len:|len|biu|Linum|eng:linen, por:linho, spa:lino, fra:lin, deu:Lein, hun:pol:len, rus:лён (l’on), vie:lanh|flax (linseed)|lin|lino (linaza)|linho|лён|كتان|亚麻|アマ |||अलसी (तीसी)|তিসি|flaks (rami)|kitani||||
+len:i|leni|rang|||beige (flaxen)||||бежевый |||亜麻色||||||||||
 leng:i|lengi|||zho:冷 (lěng), vie:lạnh, yue:冷 (laang5)|cold||frío||||冷たい (寒い)|||||||||malvarma|kylmä|zimny, chłodny
 leng.o.mosim:|lengomosim||||winter|hiver|invierno|inverno|зима||冬天||||सर्दी (जाड़ा,  शिशिर)||musim dingin||kış|vintro|talvi|zima
 leng.o.mosim:i|lengomosimi||||wintry|hivernal (hibernal)|invernal|invernal (hibernal)|зимний|||||||||||vintra|talvinen|zimowy
@@ -2114,7 +2125,7 @@ lil.kabog:e|lilkaboge|biu|Cucurbita pepo||zucchini|courgette|calabacín|abobrinh
 lil.sit:e|lilsite||||small town|||||||||||||||urbeto|pikkukaupunki|
 lil.xek:e|lilxeke||||pebble (gravel)|caillou||pedrinha|галька||砾石|小石|자갈||||||çakıl|ŝtoneto|sorakivi|kamyk
 lilak:e|lilake|biu|Syringa vulgaris|tur:leylak, ara:(laylak), eng:lilac, fra:lilas, por:lilás, spa:tgl:lila, jpn:ライラック (rairakku)|lilac||lila||||||||||||||syreeni|lilak
-lilak:i|lilaki|rang|||lilac color||lila (de color lila)||||||||||||||violetti (liila)|liliowy
+lilak:i|lilaki|rang|||lilac colored||lila (de color lila)|||||ライラック色|||||||||violetti (liila)|liliowy
 lim:i|limi|numbe|5|may:tgl:lima, mlg:dimy|five (5)|cinq (5)|cinco (5)|cinco (5)|пять (5)||五 (5)|五 (5)||||||||kvin (5)|viisi (5)|pięć (5)
 lim.fas:|limfas||||pentahedron (prism)||pentaedro||||||||||||||viisitahokas (prisma)|pięciościan (pryzmat)
 lim.gon:|limgon||||pentagon||pentágono||||||||||||||viisikulmio|pięciokąt (pentagon)
@@ -2124,7 +2135,7 @@ limit:e|limite|||eng:limit, spa:límite, fra:por:limite, rus:лимит (limit)|
 limit:i|limiti||||finite (limited)|||||||||||||||||skończony (ograniczony)
 limon:|limon|biu|Citrus limon|fas:(limun), eng:lemon, tur:limon, rus:лимон (limon), spa:limón, por:limão, hin:नींबू (nīmbū), urd:(nībū), zho:柠檬 (níngméng), jpn:檸檬 (remon), kor:레몬 (remon), swa:ndimu,limau, ben:লেবু (lebu)|lemon|citron|limón|limão|лимон||柠檬|レモン|||नींबू||jeruk lemon (limau)||limon|citrono|sitruuna|cytryna
 limon.ik:e|limonike|biu|Citrus||citrus fruit||cítrico||цитрус||柑橘|柑橘|||||jeruk (limau)||turunçgil (sitrus)|||
-limon.lug:i|limonlugi||||lime green||verde limón|||||||||||||||limonkowy (limonkowo zielony)
+limon.luk:i|limonluki|rang|||lime green||verde limón||||||||||||çim|||limonkowy (limonkowo zielony)
 limon.rang:i|limonrangi|rang|||yellow||amarillo|||||||||||||flava|keltainen|żółty
 lin:|lin|||eng:line, fra:ligne, spa:línea, por:linha, rus:линия (liniya), pol:linia|line (thread, string)|ligne (fil)|linea (hilo, cordel, raya)|linha (fio)|линия (нитка)||线|糸||||দড়ি (তার)||||lineo (ŝnuro)|linja (viiva, lanka, liina, naru, köysi)|linia (nić, lina, pas, pręga, smuga, dratwa)
 lin.em:|linem||||fibre|fibre|hebra (fibra)|fibra|волокно||纤维|繊維||sợi|||||lif|fibro|säie (kuitu)|włókno
@@ -2175,8 +2186,8 @@ lontr:e|lontre|biu|Lutrinae|spa:tgl:lutrino, fra:loutre, por:lontra, ita:lontra|
 lot:e|lote|||por:spa:lote, eng:fra:lot|batch (lot)||lote (grupo)||||||||||||||erä (satsi)|wsad, partia, porcja, seria
 lou:a|lova|||zho:漏 (lòu), yue:漏 (lau6), jpn:漏 (rō), 루 (ru)|leak||chorrear|vazar|протекать (просочиться)||漏|漏る||||||||liki|vuotaa|przeciekać, ciec
 lou:a sang:|lova sang||||bleed||sangrar|||||||||||||sangi|vuotaa verta|krwawić
-lug:i|lugi|rang||zho:绿 (lǜ), yue:綠 (luk6), vie:lục, kor:록/녹 (rok/nok), jpn: 緑色 (ryokushoku)|green|vert|verde|verde|зелёный|أَخْضَر|绿色|緑 (緑色)|녹색|xanh (lục)|हरा|সবুজ|hijau|kijani||verda|vihreä|zielony
-lug.o.melon:|lugomelon|biu|Cucumis melo, Inodorus||honeydew (green melon)||melón verde|||||ハネデューメロン||||||||||melon miodowy
+luk:i|luki|rang||zho:绿 (lǜ), yue:綠 (luk6), vie:lục, kor:록/녹 (rok/nok), jpn: 緑 (ryoku)|green|vert|verde|verde|зелёный|أَخْضَر|绿色|緑 (緑色)|녹색|xanh (lục)|हरा|সবুজ|hijau|kijani||verda|vihreä|zielony
+luk.o.melon:|lukomelon|biu|Cucumis melo, Inodorus||honeydew (green melon)||melón verde|||||ハネデューメロン||||||||||melon miodowy
 Luksemburg:e|Luksemburge|dex|LU||Luxembourg||Luxemburgo||||||||||||||Luxemburg|Luksemburg
 lul:|lul|||amh:ሉል (lul), ara:(luʾluʾa), swa:lulu, orm:lu'ulu'a, hau:lu'ulu'u, ful:luuluuri, fas:(lo'lo')|pearl||perla|||||||||||||perlo|helmi|perła
 lun:|lun|planete 3 lun 1||fra:lune, spa:luna, eng:lunar, rus:луна (luná)|moon|lune|luna|lua|луна|||||||||||luno|kuu|księżyc
@@ -2208,7 +2219,7 @@ maian:|mayan||||Maya||maya|||||||||||||majao|maya (mayaintiaani)|Maya
 Maiot:e|Mayote|dex|YT||Mayotte||Mayotte (Mahoré)||||||||||||||Mayotte|Majotta
 mais:|mais|||eng:maize, spa:maíz, fra:maïs, rus:маи́с (maís)|corn (maize)||maíz||||||||||||||maissi|kukurydza
 maitner.em:|maitnerem|mate|Mt||meitnerium||meitnerio|||||||||||||mejtnerio|meitnerium|meitner
-majent:i|majenti|||eng:magenta, spa:magenta, rus:маджента (madzhenta), ara:ماجنتي (majinati), hin:मैजेंटा (maijenta), jpn:マゼンタ (mazenta), may:magenta|magenta (fuchsia)||magenta (fucsia)||маджента (фуксия)|||マゼンタ (紅紫色)||||||||||magenta
+majent:i|majenti|rang||eng:magenta, spa:magenta, rus:маджента (madzhenta), ara:ماجنتي (majinati), hin:मैजेंटा (maijenta), jpn:マゼンタ (mazenta), may:magenta|magenta (fuchsia)||magenta (fucsia)||маджента (фуксия)|||マゼンタ (紅紫色)||||||||||magenta
 Makah:|Makah||||Mecca|||||مكَة||||||||||||Mekka
 makal:|makal|||ara:مَقَال‎ (maqāl), tur:makale, swa:makala, fas:مقاله‎ (maqâle), may:makalah|article (writing)||artículo (texto)||||||||||||||artikkeli (kirjoitus)|artykuł, tekst
 makan:|makan|||hin:मक्खन (makkhan), ben:মাখন (makhôn), pan:ਮੱਖਣ (makhaṇa), mar:माखण (mākhaṇ), guj:માખણ (mākhaṇ)|butter||mantequilla||||||||||||||voi|masło
@@ -2601,7 +2612,7 @@ nid:e|nide|||eng:nest, spa:nido, por:ninho, fra:nid, rus:гнездо (gnezdo), 
 Nijer:|Nijer|dex|NE||Niger||Níger|||||||||||||Niĝero|Niger|Niger
 Nikaragua:|Nikaragua|dex|NI||Nicaragua||Nicaragua|||||||||||||Nikaragvo|Nikaragua|Nikaragua
 nikel:|nikel|mate|Ni||nickel||níquel|||||||||||||nikelo|nikkeli|nikiel
-nil:i|nili|rang||ben:নীল (nīl), hin:नीला (nīlā), urd:(nīlā), tam:நீலம் (nīlam)|blue|bleu|azul|azur|синий (голубой)|أَزْرَق|蓝色|青い|||नीला|নীল||biru|buluu|blua|sininen|niebieski
+nil:i|nili|rang||hin:नीला (nīlā), ben:নীল (nīl), urd:(nīlā), mar:निळा (niḷā), tam:நீலம் (nīlam), fas:نیل (nil), ara:نِيلِيّ‎ (nīliyy), may:nila, spa:añil, por:anil|blue|bleu|azul|azur|синий (голубой)|أَزْرَق|蓝色|青い|||नीला|নীল||biru|buluu|blua|sininen|niebieski
 nil.centaur:|nilcentaur|biu|Centaurea cyanus||cornflower|Centaurée bleuet|aciano (azulejo)|escovinha (centáurea)|василёк синий||矢車菊|ヤグルマギク||||||||||bławatek
 nil.seram.xing:|nilseramxing|biu|Houstonia caerulea||azure bluet||||||茜草花|ヒナソウ||||||||||houstoia azurowa
 nilon:|nilon|||eng:por:fra:nylon, spa:nilón, rus:нейлон (nejlon), ara:نَايْلُون‎ (nāylūn), fas:نایلون‎ (nâylon), may:nilon, swa:nailoni, zho:尼龙 (nílóng), jpn:ナイロン (nairon)|nylon|nylon|nailon (nilón)||нейлон||尼龙|ナイロン|||||nilon|nailoni||nilono|nailon|nylon
@@ -2690,7 +2701,7 @@ or:|or|bode||zho:耳 (ěr), eng:ear, deu:Ohr, fra:oreille, por:orelha, spa:oreja
 or:a|ora||||listen||escuchar (oír)||||||||||||||kuunnella|słuchać
 or.itis:|oritis||||otitis|otite|otitis|otite|отит||耳炎|||||||||otito|korvatulehdus|zapalenie ucha
 oranj:e|oranje|biu||eng:orange, spa:naranja, por:laranja, hin:नारंगी (narangi), jpn:(orenji), + fra:orange, rus:оранжевый (oranževiy)|orange (fruit)|orange (fruit)|naranja|laranja|апельсин||橙子||||नारंगी||jeruk (oren)||portakal|oranĝo|appelsiini|pomarańcza
-oranj:i|oranji|rang|||orange (orange-colored)|orange (couleur)|anaranjado|alaranjado|оранжевый||橙色|オレンジ色の||||||||oranĝa|oranssi|pomarańczowy
+oranj:i|oranji|rang|||orange (orange colored)|orange (couleur)|anaranjado|alaranjado|оранжевый||橙色|オレンジ色の||||||||oranĝa|oranssi|pomarańczowy
 orgazm:e|orgazme|||eng:orgasm, spa:por:orgasmo, fra:may:orgasme, rus:оргазм (orgazm), tur:orgazm, hin:ओगाज़्म (ogāzma), jpn:オーガズム (ōgazumu), kor:오르가슴 (oreugaseum)|orgasm||orgasmo||||||||||||||orgasmi|orgazm
 orkid:e|orkide|biu|Orchidaceae|eng:orchid, spa:por:orquídea, rus:орхидея (orhideya), hin:ऑर्किड (orkid), ben:অর্কিড (arkiḍa)|orchid|orchidée|orquídea|orquídea|орхидея||兰花|ラン|||ऑर्किड|||||||storczyk (orchidea)
 orom:i|oromi||||Oromo (an Ethiopian ethnic group and language)||oromo||||||||||||||oromo (etiopialainen kansa ja kieli)|oromo
@@ -3145,7 +3156,7 @@ rot.o.rait:o|rotoraito||||clockwise||en el sentido del las agujas del reloj|||||
 rot.o.tafun:|rototafun||||cyclone (hurrican, tornado, typhoon)||huracán (tifón)||||飓风 (台风)|||||||||uragano (tajfuno)|pyörremyrsky (hurrikaani, taifuuni, tornado)|trąba powietrzna (cyklon, tornado, tajfun)
 rot.o.top:e|rototope|||eng:top, fra:toupie|top (spinning top)|toupie|trompo||волчок|pinhão|陀螺|独楽|||gasing||||||hyrrä|bąk, bączek
 roz:e|roze|biu|Rosa|fra:eng:rose, spa:por:rosa, rus:роза (roza), fas:(roz, gol-e sorx), tgl:rosas|rose|rose|rosa|rosa|роза||玫瑰|バラ|장미|hoa hồng|गुलाब|গোলাপ|mawar (ros)|waridi|gül|rozo|ruusu|róża
-roz.o.rang:i|rozorangi|rang|||pink (rosy)||rosa||||||||||||||vaaleanpunainen|różowy, różany
+roz:i|rozi|rang|||pink (rosy)||rosado||розовый||粉红色的|ピンク色|||गुलाबी|||waridi (pinki)|gül rengi (pembe)|||
 roz.o.salmon:|rozosalmon|biu|Oncorhynchus gorbuscha||pink salmon|saumon rose|salmón rosado|salmão-rosa|горбуша||粉紅鮭|カラフトマス||||||||||gorbusza
 Ruanda:|Rvanda|dex|RW||Rwanda||Ruanda||||||||||||||Ruanda|Rwanda
 rubid.em:|rubidem|mate|Rb||rubidium||rubidio|||||||||||||rubidio||rubid
@@ -3154,6 +3165,10 @@ ruh:i|ruhi||||mental (psychic)||mental (psíquico)||||||||||||||henkinen (psyykk
 ruh.loj:ia|ruhlojia|||tur:ruh bilimi, hin:मनोविज्ञान (manovigyān), ben:মনোবিজ্ঞান (mônobiggan), may:ilmu jiwa, ara:(ʿilm an-nafs), deu:Seelenkunde, eng:psychology, spa:psicológia|psychology|psychologie|psicología|||||||||||saikolojia||psikologio|psykologia|psychologia
 ruh.mix:a|ruhmixa||||confuse (perplex, bewilder, baffle)||confundir (desconcertar, perplejo)||озадачить|||惑わす||||||||||mylić (gmatwać, zmieszać, konsternować)
 ruh.mix:i|ruhmixi||||confused (perplexed, disoriented, bewildered)|perplexe (désorienté)|confundido|perplexo (confuso)|растерянный (озадаченный)|حَيْران‎|困惑 (混乱)|まごまご|||भ्रमित (हैरान, संभ्रांत)||bingung (hilang akal, keliru)|kuzubaa (vuruguvurugu)|şaşkın|||smieszany (skonfudowany)
+ruj:i|ruji|rang||spa:rojo, fra:rouge, pol:rudy, rus:рыжий (ryžyj)|red|rouge|rojo|vermelho|красный|أَحْمَر|红|赤い|빨갛다|đỏ|लाल|লাল|merah|nyekundu|kırmızı (al)|ruĝa|punainen|czerwony
+ruj.o.linc:e|rujolince|biu|Lynx rufus||bobcat||lince rojo (gato montés)||рыжая рысь||短尾貓|ボブキャット||||||||||ryś rudy
+ruj.o.salmon:|rujosalmon|biu|Oncorhynchus nerka||sockeye salmon|saumon sockeye|salmón rojo|salmão-vermelho|нерка (красница)||紅鮭|ベニザケ||||||||||nerka (łosoś czerwony)
+ruj.oranj:e|rujoranje|biu|Citrus reticulata||mandarin orange (tangerine)|mandarine|mandarina (tangerina)|tangerina (mandarim)|мандарин||柑橘 (红橘)|ポンカン (マンダリン)|||नारंगी (nārangī)||limau mandarin (oren mandarin, tangerin)|chenza||mandarino|mandariini|mandarynka
 ruk:e|ruke|||deu:Rücken|back||espalda (lomo)|||||||||||||dorso|selkä|placy
 ruk.o.sak:e|rukosake|||deu:eng:rucksack, rus:рюкзак (rjukzak), jpn: リュックサック (ryukkusakku), kor:륙색 (ryuksaek)|backpack (rucksack)||mochila||рюкзак|||リュックサック|||||||||reppu (rinkka)|plecak
 rul:|rul||||roll (scroll, coil)||rollo||||||||||||||käärö|rulon (rolka, zwój)
@@ -3192,6 +3207,8 @@ safar:a|safara||||travel||viajar|||||||||||||vojaĝi|matkustaa|podróżować
 safar.er:|safarer||||traveler||viajero|||||||||||||vojaĝanto|matkailija|podróżnik
 safar.ist:e|safariste||||tourist|touriste|turista||||||||||||||turisti|turysta
 safar.ist:ia|safaristia||||tourism||turismo||||||||||||||turismi|turystyka
+safir:|safir|bauxeke||eng:saphire, por:safira, spa:zafiro, fra:saphir, deu:Saphir, rus:сапфир (sapfir), tur:may:safir, jpn:サファイア (safaia)|saphire|saphir|zafiro|safira|сапфир|||サファイア|||||safir||safir|||
+safir:i|safiri|rang|||saphire blue||azul zafiro|||||||||||||||
 safran:|safran|||ara:(zaʿfarān), swa:zafarani, fas:(za'ferân), fra:tur:safran, eng:saffron, spa:azafrán, por:açafrão, rus:шафран (šafran)|saffron||azafrán||шафран|||||||||||safrano|sahrami|szafran
 sag:a|saga||||tell (narrate)||relatar (narrar)|||||||||||||rakonti|kertoa|opowiedzieć, opowiadać
 sag:e|sage|||eng:spa:por:may:saga, deu:Sage, rus:сага (saga)|tale (story, legend, saga)||historia (cuento, relato, leyenda)|||||||||||||rakonto|kertomus (tarina, saaga)|opowiadanie, opowieść, legenda, saga
@@ -3220,6 +3237,7 @@ salam:a|salama||||greet||saludar|||||||||||||saluti|tervehtiä|pozdrowić, pozdr
 salam:e|salame|||ara:(salām), swa:salamu, may:selamat, hin:सलाम (salām), ben: সালাম (salam), zho:萨拉姆 (sàlāmǔ), jpn:サラーム (sarāmu), kor:살람 (sallam), vie:xa lam, rus:салям (salyam)|greeting (hello)|salut (salam)|saludo|saudação|приветствие|سَلَام|迎接|挨拶|인사|lời chào|सलाम|সালাম|selamat|salaam (salamu)|selam|saluto|tervehdys (terve!)|pozdrowienie
 salam:ia|salamia||||well-being (prosperity)|bien-être|bienestar|bem-estar|благосостояние||福利 (福祉)|福利 (福祉)|복리 (복지)||||||||hyvinvointi|
 salmon:|salmon|biu||eng:may:salmon, spa:salmón, por:salmão, fra:saumon, swa:samoni, jpn:サーモン (sāmon)|salmon (trout)|truite|salmón (trucha)|||||鮭鱒|||||ikan salmon (ikan trout)|samoni||||łosoś (pstrąg)
+salmon:i|salmoni|rang|||salmon colored|||||||||||||||||
 Salon:|Salon|dex|SL||Sierra Leone||Sierra Leona||||||||||||||Sierra Leone|Sierra Leone
 salt:e|salte|||eng:salt, fra:sel, spa:por:sal, rus:соль (solʹ)|salt|sel|sal|sal|соль||盐|塩|소금 (염)|muối (diêm)|नमक|নুন|garam||tuz|salo|suola|sól
 salt:i|salti||||salty (saline)||salino|salino||||||||||||sala|suolainen|słony
@@ -3320,7 +3338,7 @@ seru:e|serve|||eng:fra:service, por:serviço, rus:сервис (servis), tur:ser
 seru.er:|server||||servant||criado (sirviente)||||||||||||||palvelija (tarjoilija)|sługa
 sesam:|sesam|biu|Sesamum indicum|eng:sesame, rus:сезам (sezam), spa:sésamo, ara:(simsim), swa:simsim, tur:susam|sesame||ajonjolí (sésamo)||сезам|||||||||simsim|susam||seesami|sezam
 Sexel: nes:ia|Sexel nesia|dex|SC||Seychelles||Seychelles||||||||||||||Seychellit|Seszele
-sian:i|siani|||eng:cyan, spa:cian, rus:циан (tsian), ara:سيان (sayan), hin:क्यान (kyāna), jpn:シアン (shian), may:sian|cyan||cian||циан|||シアン|||||||||syaani|niebieskozielony (cyjan)
+cian:i|ciani|rang||eng:cyan, spa:cian, rus:циан (tsian), ara:سيان (sayan), hin:क्यान (kyāna), jpn:シアン (shian), may:sian|cyan||cian||циан (голубой)|||シアン|||||||||syaani|niebieskozielony (cyjan)
 Sibir:ia|Sibiria||||Siberia||Siberia||||||||||||||Siperia|Syberia
 siborg.em:|siborgem|mate|Sg||seaborgium||seaborgio|seabórgio|сиборгий|||シーボーギウム|||||seaborgium|seaborgi|siborgium|seborgio||seaborg
 sid:a|sida|||rus:сидеть (sidet'), eng:sit, deu:sitzen, ita:sedere|sit (put down)||sentar||сидеть|||||||||||sidi|istua|siedzieć
@@ -3331,7 +3349,7 @@ sif:a|sifa||||qualify (describe)||definir||||||||||||||määritellä (luonnehtia
 sif:i|sifi||||descriptive||descriptivo||||||||||||||kuvaileva (määrittelevä)|opisowy
 sif.log:e|sifloge||||adjective|adjectif|adjetivo|adjetivo|прилагательное|صفة|形容词|形容詞|형용사|tính từ (hình dung từ)|बिशेषण|বিশেষণ|kata sifat|kuvumishi (sifa)|sifat|adjektivo|adjektiivi (laatusana)|przymiotnik
 sigar:|sigar|||tur:sigara, amh:ሲጃራ (siǧara), ara:(sījāra), eng:cigar(ette), zho:雪茄 (xǔejiā), wuu:雪茄 (xi'gá)|cigarette (cigar)||cigarro||||||||||||||savuke tai sikari|papieros (cygar)
-siiah:i|siyahi|rang||fas:سیاه‎ (siyâh), hin:सियाह (siyāh), urd:سیاہ (siyāh), pan:ਸਿਆਹ (siāh), tur:siyah|black|noir|negro|preto|чёрный|أَسْوَد|黑色|黒い|검다|đen|काला|কালো|hitam|eusi|kara (siyah)|nigra|musta|czarny
+siiah:i|siyahi|rang||fas:سیاه‎ (siyâh), tur:siyah, hin:सियाह (siyāh), urd:سیاہ (siyāh), pan:ਸਿਆਹ (siāh)|black|noir|negro|preto|чёрный|أَسْوَد|黑色|黒い|검다|đen|काला|কালো|hitam|eusi|kara (siyah)|nigra|musta|czarny
 sik.ist:e|sikiste||||Sikh||sij||||||||||||||sikhi|sikh
 sik.ist:ia|sikistia||||Sikhism||sijismo||||||||||||||sikhiläisyys|sikhizm
 sikl:e|sikle|||eng:bicycle, fra:bicyclette, tur:bisiklet, spa:bicicleta, tgl:bisikleta, ben:সাইকেল (saikel), hin:साइकिल (sāikil)|bike (cycle)|bicyclette|bicicleta||||||||||||bisiklet||pyörä (polkupyörä, moottoripyörä)|rower
@@ -3450,6 +3468,7 @@ sui.gas:|suigas||||steam (vapor)|vapeur d’eau|vapor|vapor|пар||蒸汽|湯�
 sui.iau:|suiyau||||thirst|soif|sed|sede|жажда|عطش‎|口渴|喉の渇き|목마름|khát|प्यास|তৃষ্ণা|haus||susuzluk|soifo|jano|pragnienie
 sui.kabog:e|suikaboge|biu|Lagenaria siceraria|por:abóbora-d'água, tur:su kabağı|calabash||calabaza de peregrino||тыква горлянка (калабас)||葫芦|ヒョウタン (ひさご)||||||||||tykwa pospolita (kabalasz)
 sui.mint:e|suiminte|biu|Mentha hirsuta||watermint|Menthe aquatique|menta acuática|hortelã-da-água|мята водная||水薄荷|||||||||||mięta wodna
+sui.nil:i|suinili|rang|||aqua||||аквамарин|||水色||||||||||
 sui.rang:|suirang||||watercolor||acuarela||||||||||||||vesiväri (akvarelliväri)|akwarela (farba wodna)
 sui.sekur:i|suisekuri||||waterproof||impermeable (sumergible)||||||||||||||vesitiivis|wodoodporny
 Suis:ia|Suisia|dex|CH||Switzerland||Suiza||||||||||||||Sveitsi|Szwajcaria
@@ -3565,7 +3584,7 @@ ten:|ten|||zho:天 (tiān), yue:天 (tin1), wuu:天 (thi1), jpn:天 (ten), kor:�
 ten:i|teni||||celestial (heavenly)||celeste (celestial)|||||||||||||||niebieski, niebiański, podniebny
 ten.hal:|tenhal||||weather||clima (tiempo)||погода||天气|天気|날씨|thời tiết|मौसम (ऋतु)|বতৰ|cuaca (hawa)|hali ya hewa|hava|vetero|sää|pogoda
 ten.kenar:|tenkenar||||horizon||horizonte||горизонт||地平线|地平線 (水平線, 天際)||||||||||horyzont
-ten.nil:i|tennili||||light blue (sky blue, azure)||celeste (azul celeste)||голубой|||空色||||||||||jasnoniebieski (lazurowy)
+ten.nil:i|tennili|rang|||light blue (sky blue)||celeste (azul celeste)||небесный цвет|||空色||||||||||jasnoniebieski (lazurowy)
 Tenesi:|Tenesi||||Tennessee||Tennessee|||||||||||||||
 tenesi.em:|tenesiem|mate|Ts||tennessine||teneso|||||||||||||teneso||tenesyn, tennessine
 tenis:|tenis||||tennis||tennis|||||||||||||teniso|tennis|tenis
@@ -3630,6 +3649,8 @@ top.o.graf:|topograf||||topography|topographie|topografía|topografia|топог
 tor.em:|torem|mate|Th||thorium||torio|||||||||||||torio||tor
 tors:e|torse|||fra:torse, rus:торс (tors), deu:eng:spa:may:torso|trunk (torso)||torso|||||||||||||torso|vartalo (varsi, torso)|tułów
 tortug:e|tortuge|biu|Testudines|eng:tortoise, spa:tortuga, por:tartaruga, fra:tortue|turtle (tortoise)||tortuga||||||||||||||kilpikonna|żółw
+tram:|tram|biu|Indigofera|may:tarum, zho:蓝 (lán), yue:藍 (laam4), jpn:藍 (ran), vie:lam, tha:คราม (kraam)|indigo plant|||||||コマツナギ|||||tarum (nila, indigo)|||||
+tram:i|trami|rang|||indigo (purple)||índigo (añil)||индиго||靛蓝色|藍色|||||nila|nili||||
 trans:a|transa||||transit (pass through or across)||transitar (atravesar)||||||||||||||kulkea poikki, läpi tai yli|przejść, przechodzić, przejechać, przejeżdżać
 trans:e|transe|||eng:fra:spa:por:deu:may:trans-, rus:транс- (trans-)|transit (passage)||tránsito||||||||||||||läpikulku|przejazd, przewóz, tranzyt
 trans.er:ia|transeria||||transportation||transporte||||||||||||||kuljetus|transport
@@ -3746,7 +3767,8 @@ uid.o.punt:e|vidopunte||||perspective (point of view)||perspectiva (punto de vis
 uidou:|vidou|||eng:widow, spa:viudo, por:viúvo, fra:veuve, deu:Witwe, rus:вдова (vdova), hin:विधवा (vidhavā), ben:বিধবা (bidhabā), tel:విధవ (vidhava)|widow|veuve|viudo|viúvo|вдова|أرملة‎|寡妇|寡婦|홀어미 (과부)|quả phụ|विधवा|বিধবা|janda (balu)|mjane|dul|vidvo|leski|wdowa
 uiet:i|vieti||||Vietnamese (Viet)||vietnamita||||||||||||||vietnamilainen|wietnamski
 Uiet:ia|Vietia|dex|VN||Viet Nam||Vietnam||||||||||||||Vietnam|Wietnam
-uiiolet:i|viyoleti|||eng:por:fra:violet, spa:violeta, deu:violett, rus:фиолетовый (fioletovyy), jpn:バイオレット (baioretto), kor:보라 (bola)|purple (violet)|violet (pourpre)|morado (púrpura)|purpúreo (roxo)|фиолетовый (пурпурный)|||紫色 (パープル)||||||||||fioletowy
+uiiolet:e|viyolete|biu|Viola||violet (pansy)|||||||||||||||||
+uiiolet:i|viyoleti|rang||eng:por:fra:violet, spa:violeta, deu:violett, rus:фиолетовый (fioletovyy), jpn:バイオレット (baioretto), kor:보라 (bola)|purple (violet)|violet (pourpre)|morado (púrpura)|purpúreo (roxo)|фиолетовый (пурпурный)|||紫色 (パープル)||||||||||fioletowy
 uijin:|vijin|||zho:味精 (wèijīng), yue:味精 (mei6 zing1), vie:mì chính, may:vetsin,micin, tgl:bitsin|MSG (monosodium glutamate)||GMS||||味精||미원|mì chính|||micin (vetsin)||||natriumglutamaatti|glutaminian sodu
 uik:e|vike||||wiki article||página wiki|||||||||||||vikia artikulo|wikikirjoitus|artykuł wiki
 uik:ia|vikia|||eng:fra:spa:por:may:wiki, tur:viki, ara:وِيكي‎ (wikī), fas:ویکی‎ (viki), hin:विकि (viki), ben:উইকি (uiki), zho:维基 (wéijī), yue:維基 (wai4 gei1), jpn:ウィキ (wiki), kor:위키 (wiki)|wiki|||||||||||||||||
@@ -3929,6 +3951,7 @@ zai:u|zayu||||exist (be present)||existir (estar presente)|||||ある (いる)||
 zai.den:o|zaideno||||today||hoy|||||今日||||||||hodiaŭ|tänään|dziś, dzisiaj
 zai.sat:e|zaisate||||present time (now)||presente|||||今 (現在)||||||||nuno|tämä hetki (nyt)|teraźniejszość, współczesność (teraz)
 zaitun:|zaitun|biu||ara:(zaitūn), spa:aceituna, may:zaitun, swa:zaituni, hin:urd:(zaitūn)|olive||aceituna|||||||||||||olivo|oliivi|oliwka
+zaitun:i|zaituni|rang|||olive green|||||||||||||||||
 zalim:i|zalimi|||ara:(ẓālim), tur:zalim, urd:hin:(zālim), fas:(zālem), swa:dhalimu|mean (cruel)||mezquino (antipático, cruel)||||||||||||||ilkeä (julma)|złośliwy, okrutny
 zalim:i raj.er:|zalimi rajer||||tyrant (despot)||tirano (déspota)||тиран (деспот)|||暴君|||तानाशाह||penzalim (raja lalim)||zorba (zalim)||tyranni|tyran
 zalim:ia|zalimia||||cruelty (tyranny, despotism)||crueldad (tiranía)||||||||||||||tyrannia|tyrania
@@ -3977,4 +4000,5 @@ zuk:i|zuki||||ethnic|ethnique|étnico|étnico|этнический|||民族の|�
 zuk.o.med:i|zukomedi||||interethnic||interétnica||межэтнический|||||||||||interetna|kansanryhmien välinen|międzyetniczny
 zukam:|zukam|||ara:زُكَام‎ (zukām), fas:زکام‎ (zukâm), hin:ज़ुकाम (zukāma)|cold (illness)||resfriado (catarro)||||||||||||||vilustuminen|przeziębienie, katar
 Zulu:|Zulu||||Zulu|zoulou|zulú||зулус|||||||||||zuluo|zulu|zulu
-zumurud:e|zumurude|||fas:(zomorrod), tur:zümrüt, ara:(zumurrud), may:zamrud, rus:изумруд (izumrud), swa:zumaridi, zho:祖母绿 (zǔmǔlǜ)|emerald|émeraude|esmeralda|esmeralda|изумруд||绿宝石 (祖母绿)||||पन्ना (मरकत)||zamrud|zumaridi|zümrüt|smeraldo|smaragdi|szmaragd
+zumurud:e|zumurude|bauxeke||fas:(zomorrod), tur:zümrüt, ara:(zumurrud), may:zamrud, rus:изумруд (izumrud), swa:zumaridi, zho:祖母绿 (zǔmǔlǜ)|emerald|émeraude|esmeralda|esmeralda|изумруд||绿宝石 (祖母绿)||||पन्ना (मरकत)||zamrud|zumaridi|zümrüt|smeraldo|smaragdi|szmaragd
+zumurud:i|zumurudi|rang|||emerald green||verde esmeralda|||||||||||||||
